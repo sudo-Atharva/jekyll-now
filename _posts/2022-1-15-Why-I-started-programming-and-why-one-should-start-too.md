@@ -13,7 +13,9 @@ Once I was just at some marriage and sitting there down on the chair with some <
 <br>And also, thanks to <a href="https://medium.com">Medium.com</a> for the image. So, Back to the story, I researched a lot about it and finally came to an end that all this was handeled by OS (Operating Systems), I beloved that UI and started researching it took me around 1.5 day to research and I came to realize that all that an OS was handeled by a Kernel and I started my research on Kernels, Now It was time to know how do they run? It was a really crucial and vital question to know the answer of and received some images and diagrams like this one below.
               
 <a href="https://commons.wikimedia.org/wiki/File:Kernel_Layout.svg#/media/File:Kernel_Layout.svg">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/1200px-Kernel_Layout.svg.png" alt="Kernel Layout.svg"></a><br>By &lt;<a href="//commons.wikimedia.org/w/index.php?title=User:Bobbo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bobbo (page does not exist)"&gt;Bobbo&lt;/a&gt; -&lt;span class="int-own-work" lang="en"&gt;Own work&lt;/span&gt;, 
-<a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4392180">Link</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/1200px-Kernel_Layout.svg.png" alt="Kernel Layout.svg"></a><br>By &lt;
+<a href="//commons.wikimedia.org/w/index.php?title=User:Bobbo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bobbo (page does not exist)"&gt;Bobbo&lt;/a&gt; -&lt;span class="int-own-work" lang="en"&gt;Own work&lt;/span&gt;, 
+<a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, 
+<a href="https://commons.wikimedia.org/w/index.php?curid=4392180">Link</a>
 <br>
 See I'm constantly working with images and diagram so that everyone reading this blog can understand what's happening up here.
