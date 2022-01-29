@@ -18,4 +18,5 @@ Once I was just at some marriage and sitting there down on the chair with some <
 <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, 
 <a href="https://commons.wikimedia.org/w/index.php?curid=4392180">Link</a>
 <br>
-See I'm constantly working with images and diagram so that everyone reading this blog can understand what's happening up here.
+
+Here I'm constantly up with images and diagrams so that everyone reading this blog can understand what's happening up here.
