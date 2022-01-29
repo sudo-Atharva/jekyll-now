@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Why I started Programming and why you should start too?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+So, before you start reading the blog let's know bit about me. Hi I am Atharva Pandey, a tech enthusist and a coder or maybe a programmer cause I like to write logics too and yes my bloodgroup is Python+. Well I am from Maharashtra, India and I turned 12 this January i.e 2022. So this was pretty much about me. By, the way yes make sure to follow me on my github and subscribe my youtube channel I'll upload videos about my coding project too! So let's get started with our today's blog post.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Many of us might be programming for some good money, or to have a high portfolio, or under family pressure or even you might be coding even
+in one of your relatives company under peer presure etc. Well how to manage all that I will be cover in my next blog post surely but for now 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+##let's get to know about my programming journey.
