@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /Why-I-started-programming-and-why-one-should-start-too/
 title: Why I started Programming and why you should start too?
 ---
 
