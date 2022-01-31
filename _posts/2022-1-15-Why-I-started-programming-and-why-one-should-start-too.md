@@ -2,6 +2,7 @@
 layout: post
 permalink: /Why-I-started-programming-and-why-one-should-start-too/
 title: Why I started Programming and why you should start too?
+comments: true
 ---
 
 So, before you start reading the blog let's know bit about me. Hi I am Atharva Pandey, a tech enthusist and a coder or maybe a programmer cause I like to write logics too and yes my bloodgroup is Python+. Well I am from Maharashtra, India and I turned 12 this January i.e 2022. So this was pretty much about me. By, the way yes make suresure to follow me on my github and subscribe my youtube channel I'll upload video about my coding project too! So let's get started with our today's blog post.
@@ -21,3 +22,6 @@ Once I was just at some marriage and sitting there down on the chair with some <
 <br>
 
 Here I'm constantly up with images and diagrams so that everyone reading this blog can understand what's happening up here.
+
+{% if page.comments %}
+{% endif %}
